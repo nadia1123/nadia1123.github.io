@@ -1,5 +1,6 @@
 ---
 title: "What movies do critics and audiences disagree on? - An analysis in R"
+classes: wide
 tags:
     - R
 ---
