@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What movies do critics and audiences disagree on? - An analysis in R"
 tags:
     - R
